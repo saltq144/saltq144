@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @saltq144
 - 👀 I’m interested in writing a programming language
-//- 🌱 I’m currently learning ...
-//- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: support@creationship27.com (i check once a month at best, apologies for wierd site name)
 
 <!---
